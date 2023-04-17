@@ -12,4 +12,4 @@ In this study, my goal was to identify the most effective classifier for a marke
 Given the finding and additional observations my recomendation is to focuse on the decision tree model and further optimize it.
 
 ## Links
-The link to the jupyter notebook used, supporting these findings can be found [here](https://github.com/hagayzamir/BH-PCMLAI-Module_17/blob/main/prompt_II.ipynb)
+The link to the jupyter notebook used, supporting these findings can be found [here](https://github.com/hagayzamir/BH-PCMLAI-Module_17/blob/main/prompt_III.ipynb)
